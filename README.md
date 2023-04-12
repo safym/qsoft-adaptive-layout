@@ -1,4 +1,4 @@
-<h1 align="center">Адаптивная вертка макета</h1>
+<h1 align="center">📝 Адаптивная вертка макета</h1>
 
 <p align="center">
   <a href="https://skillicons.dev">
